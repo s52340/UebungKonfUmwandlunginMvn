@@ -12,4 +12,6 @@ class CalculatorTest {
         Assertions.assertEquals(7,calculator.add());
     }
 
+    // Kommentar zum pushen - Veränderung - alles funktioniert :)
+
 }
